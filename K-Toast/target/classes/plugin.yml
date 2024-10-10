@@ -1,0 +1,10 @@
+name: K-Toast
+version: '1.0'
+main: org.nxdus.toast.KToast
+api-version: '1.21'
+
+commands:
+  toast:
+    description: "Sends a toast notification."
+    usage: "/toast <style> <material> <message|anotherLine>"
+    permission: ktoast.command.toast

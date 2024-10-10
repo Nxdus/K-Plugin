@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36403340-86be-4e94-ad3a-e9926a7cb1a8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Realms/Generator/GeneratorCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Realms/Generator/GeneratorCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nxdus&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/itorz7/realms-java.git&quot;,
+    &quot;accountId&quot;: &quot;66f8ff75-4ecd-41b1-9e43-599776b7eaf8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2mI816JDfGKuw9Vtg9lChYlrUxI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.K-Teleport [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;yarn&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\Paitong\\AppData\\Local\\Programs\\IntelliJ IDEA Ultimate\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36403340-86be-4e94-ad3a-e9926a7cb1a8" name="Changes" comment="" />
+      <created>1726752512572</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726752512572</updated>
+      <workItem from="1726752514159" duration="170000" />
+      <workItem from="1726755068306" duration="175000" />
+      <workItem from="1726755306434" duration="363000" />
+      <workItem from="1726755929058" duration="6274000" />
+      <workItem from="1727103040196" duration="1362000" />
+      <workItem from="1727281239725" duration="1587000" />
+      <workItem from="1727282836935" duration="56000" />
+      <workItem from="1727283575744" duration="563000" />
+      <workItem from="1727284349459" duration="1851000" />
+      <workItem from="1727343326038" duration="599000" />
+      <workItem from="1727347454114" duration="131000" />
+      <workItem from="1727361192925" duration="108000" />
+      <workItem from="1727361669866" duration="402000" />
+      <workItem from="1727362383401" duration="148000" />
+      <workItem from="1727605831533" duration="274000" />
+      <workItem from="1727617190895" duration="3613000" />
+      <workItem from="1727621421932" duration="25000" />
+      <workItem from="1727621469503" duration="332000" />
+      <workItem from="1727703230171" duration="778000" />
+      <workItem from="1727792446308" duration="591000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

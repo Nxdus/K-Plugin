@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+#    command: "ls /volumes/source"
+    environment:
+      - USE_TARGET=false
+    volumes:
+      - ./volumes:/volumes
+      - ./config/sync.yml:/home/bun/app/config/sync.yml
+    restart: always

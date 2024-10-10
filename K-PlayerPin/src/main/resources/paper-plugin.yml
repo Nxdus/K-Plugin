@@ -1,0 +1,4 @@
+name: K-PlayerPin
+version: '1.0'
+main: org.nxdus.PlayerPin.KPlayerPin
+api-version: '1.21'

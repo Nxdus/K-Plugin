@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2022",           // หรือ esnext
+    "module": "esnext",            // หรือ node16, nodenext, system
+    "moduleResolution": "node",
+    "strict": true,
+    "esModuleInterop": true,
+    "skipLibCheck": true,
+    "forceConsistentCasingInFileNames": true
+  }
+}

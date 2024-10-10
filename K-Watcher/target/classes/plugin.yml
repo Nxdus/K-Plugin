@@ -1,0 +1,4 @@
+name: K-Watcher
+version: '1.0'
+main: org.nxdus.kwatcher.KWatcher
+api-version: '1.20'

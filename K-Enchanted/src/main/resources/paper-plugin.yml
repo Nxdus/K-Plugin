@@ -1,0 +1,4 @@
+name: K-Enchanted
+version: '${project.version}'
+main: org.nxdus.kenchanted.KEnchanted
+api-version: '1.20'

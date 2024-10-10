@@ -1,0 +1,33 @@
+name: K-Money
+version: '${project.version}'
+main: org.nxdus.kmoney.KMoney
+api-version: '1.20'
+load: STARTUP
+
+depend: [Vault, PlaceholderAPI, K-Core]
+
+commands:
+  balance:
+    aliases: [money, bal]
+    permission: k_money.commands.show
+    permission-message: "You don't have permission !"
+    usage: "Usage: /<command>"
+  transfer:
+    aliases: [pay]
+    permission: k_money.commands.transfer
+    permission-message: "You don't have permission !"
+    usage: "Usage: /<command> <player_name> <amount>"
+  balance-top:
+    usage: "Usage: /<command> <index>"
+
+
+permissions:
+  k_money.commands.show:
+    default: op
+    description: Allow balance commands
+  k_money.commands.show_other:
+    default: op
+    description: Allow to see other balance
+  k_money.commands.transfer:
+    default: op
+    description: Allow transfer commands

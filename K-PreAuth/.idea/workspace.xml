@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bc10c26f-ad71-4861-a3c5-c7f6a1df6896" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Realms/RealmsCreateSubscribe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Realms/dev-mode.js" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Realms/dev-mode.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/ForceLastLocation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/ForceLastLocation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Helper/Commands/SpawnCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Helper/Commands/SpawnCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Helper/GeneralCommandService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Helper/GeneralCommandService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Realms/Generator/GeneratorCore.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Realms/Generator/GeneratorCore.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Realms/RealmsCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Realms/RealmsCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Realms/RealmsService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Realms/src/main/java/org/nxdus/realms/paper/Realms/RealmsService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Teleport/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Teleport/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Teleport/src/main/java/org/nxdus/TeleportVelocity/Subscribe/TeleportAPISubscribe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Teleport/src/main/java/org/nxdus/TeleportVelocity/Subscribe/TeleportAPISubscribe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Teleport/src/main/java/org/nxdus/TeleportVelocity/Subscribe/VelocitySubscribe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Teleport/src/main/java/org/nxdus/TeleportVelocity/Subscribe/VelocitySubscribe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Teleport/target/K-Teleport-1.0-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Teleport/target/K-Teleport-1.0-shaded.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Teleport/target/K-Teleport-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Teleport/target/K-Teleport-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Teleport/target/classes/org/nxdus/TeleportVelocity/Subscribe/TeleportAPISubscribe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Teleport/target/classes/org/nxdus/TeleportVelocity/Subscribe/TeleportAPISubscribe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Teleport/target/classes/org/nxdus/TeleportVelocity/Subscribe/VelocitySubscribe.class" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Teleport/target/classes/org/nxdus/TeleportVelocity/Subscribe/VelocitySubscribe.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Teleport/target/original-K-Teleport-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Teleport/target/original-K-Teleport-1.0.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Nxdus"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/itorz7/realms-java.git",
+    "accountId": "66f8ff75-4ecd-41b1-9e43-599776b7eaf8"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ler0LvCK4CEUKjiRTMmTsVPbZz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.K-PreAuth [install].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Paitong/Desktop/NxdusPluginProject/K-Plugin/K-PreAuth",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="K-PreAuth package" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="package" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="C:\Users\Paitong\Desktop\NxdusPluginProject\K-PreAuth" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bc10c26f-ad71-4861-a3c5-c7f6a1df6896" name="Changes" comment="" />
+      <created>1725551159741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725551159741</updated>
+      <workItem from="1725551160764" duration="1984000" />
+      <workItem from="1725802621756" duration="7000" />
+      <workItem from="1725891625067" duration="9000" />
+      <workItem from="1727359557111" duration="807000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

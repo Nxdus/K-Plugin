@@ -1,0 +1,4 @@
+name: K-Auth
+version: '1.0'
+main: org.nxdus.auth.Main
+api-version: '1.21'

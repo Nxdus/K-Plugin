@@ -1,0 +1,4 @@
+name: K-Watcher
+version: '${project.version}'
+main: org.nxdus.kwatcher.KWatcher
+api-version: '1.20'

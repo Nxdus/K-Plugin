@@ -1,0 +1,13 @@
+name: K-Chat
+version: '1.0'
+main: org.nxdus.chat.KChat
+api-version: '1.20'
+softdepend: [PlaceholderAPI, floodgate]
+
+commands:
+  chat-global:
+    aliases: [gb]
+    permission: "chat.commands.global-chat"
+  chat-ads:
+    aliases: [ads]
+    permission: "chat.commands.ads-chat"

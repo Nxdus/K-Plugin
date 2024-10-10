@@ -1,0 +1,1 @@
+{"id":"k-playerpin","name":"K-PlayerPin","version":"1.0","authors":[],"dependencies":[{"id":"k-core","optional":true}],"main":"org.nxdus.PlayerPinVelocity.KPlayerPin"}

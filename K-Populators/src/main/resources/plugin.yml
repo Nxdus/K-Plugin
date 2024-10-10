@@ -1,0 +1,14 @@
+name: K-Populators
+version: '${project.version}'
+main: org.nxdus.populators.MainPaper
+api-version: '1.20'
+
+commands:
+  populates:
+    description: "K-Populates"
+    permission: "populates.admin"
+    aliases:
+      - realm
+
+depend:
+  - Oraxen

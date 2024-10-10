@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdbfa1ca-1532-41ee-9bef-c307cce01575" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../K-Catch/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Catch/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Catch/src/main/java/org/nxdus/kcatch/Listener/CatchEntityListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Catch/src/main/java/org/nxdus/kcatch/Listener/CatchEntityListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Catch/target/K-Catch-1.0-shaded.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Catch/target/K-Catch-1.0-shaded.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Catch/target/K-Catch-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Catch/target/K-Catch-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Catch/target/classes/org/nxdus/kcatch/Listener/CatchEntityListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Catch/target/classes/org/nxdus/kcatch/Listener/CatchEntityListener.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Catch/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Catch/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../K-Catch/target/original-K-Catch-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../K-Catch/target/original-K-Catch-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Nxdus&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/itorz7/realms-java.git&quot;,
+    &quot;accountId&quot;: &quot;66f8ff75-4ecd-41b1-9e43-599776b7eaf8&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2mKwaR7dgOWA6y35BBuTRi6PunV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.K-Toast [install].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Paitong/Desktop/NxdusPluginProject/K-Plugin/K-Catch&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.22855.74" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.22855.74" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdbfa1ca-1532-41ee-9bef-c307cce01575" name="Changes" comment="" />
+      <created>1726838640063</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726838640063</updated>
+      <workItem from="1726838641124" duration="3089000" />
+      <workItem from="1726841735054" duration="19000" />
+      <workItem from="1726841756254" duration="131000" />
+      <workItem from="1727164917627" duration="53000" />
+      <workItem from="1727164973035" duration="3036000" />
+      <workItem from="1727168021858" duration="1890000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+name: K-Teleport
+version: '1.0'
+main: org.nxdus.Teleport.KTeleport
+api-version: '1.21'

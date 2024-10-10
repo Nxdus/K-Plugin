@@ -1,0 +1,33 @@
+settings:
+  flower-plains:
+    oraxenIds:
+      - worldgen_flower
+    amount: 3
+    radius: 5
+    chance: 30
+    min_height: 64
+    max_height: 90
+    worlds:
+      - itorz-world
+    bottom_blocks:
+      - GRASS_BLOCK
+    replaceable_blocks:
+      - AIR
+    biomes:
+      - PLAINS
+  flower-forest:
+    oraxenIds:
+      - worldgen_flower
+    amount: 3
+    radius: 5
+    chance: 30
+    min_height: 64
+    max_height: 90
+    worlds:
+      - itorz-world
+    bottom_blocks:
+      - GRASS_BLOCK
+    replaceable_blocks:
+      - AIR
+    biomes:
+      - forest

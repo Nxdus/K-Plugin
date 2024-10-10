@@ -1,0 +1,7 @@
+name: K-ItemSkin
+version: '${project.version}'
+main: mc.CushyPro.KItemSkin.KItemSkinMain
+api-version: '1.20'
+authors: [ CushyPro ]
+depend:
+  - K-Core

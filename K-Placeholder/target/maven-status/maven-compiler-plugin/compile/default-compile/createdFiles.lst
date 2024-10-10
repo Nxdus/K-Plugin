@@ -1,0 +1,6 @@
+org\nxdus\paper\placeholder\Commands\ReloadConfigCommand.class
+org\nxdus\paper\placeholder\Config\ConfigManager.class
+org\nxdus\paper\placeholder\Expansion\BedrockOffsetExpansion.class
+org\nxdus\paper\placeholder\KPlaceholder.class
+org\nxdus\paper\placeholder\Expansion\CustomExpansion.class
+org\nxdus\paper\placeholder\Expansion\OffsetExpansion.class

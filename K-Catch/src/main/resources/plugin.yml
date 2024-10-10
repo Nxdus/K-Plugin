@@ -1,0 +1,5 @@
+name: K-Catch
+version: '${project.version}'
+main: org.nxdus.kcatch.KCatch
+api-version: '1.21'
+depend: [ NBTAPI ]

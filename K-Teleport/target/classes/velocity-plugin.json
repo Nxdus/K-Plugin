@@ -1,0 +1,1 @@
+{"id":"k-teleport","name":"K-Teleport","version":"1.0","authors":[],"dependencies":[{"id":"k-core","optional":true}],"main":"org.nxdus.TeleportVelocity.KTeleport"}

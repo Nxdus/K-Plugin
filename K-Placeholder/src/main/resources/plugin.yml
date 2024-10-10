@@ -1,0 +1,10 @@
+name: K-Placeholder
+version: '1.0'
+main: org.nxdus.paper.placeholder.KPlaceholder
+api-version: '1.21'
+
+depend: [PlaceholderAPI]
+
+commands:
+  k-reload:
+    description: "Test"

@@ -1,0 +1,7 @@
+root = /sync/source
+root = /sync/target
+
+repeat = watch
+batch = true
+confirmbigdel = false
+auto = true

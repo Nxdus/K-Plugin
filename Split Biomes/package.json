@@ -1,0 +1,14 @@
+{
+  "name": "split-biomes",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}

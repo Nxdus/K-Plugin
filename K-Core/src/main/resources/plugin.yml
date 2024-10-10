@@ -1,0 +1,19 @@
+name: K-Core
+version: '${project.version}'
+main: org.nxdus.core.paper.KCore
+api-version: '1.20'
+load: STARTUP
+
+commands:
+  a-redis:
+    description: "Sending publish message on redis"
+    permission: "realms.commands.redis"
+    aliases: [ rd ]
+  a-translate:
+    description: "Admin Translate"
+    permission: "realms.commands.translate"
+    aliases: [ at ]
+  a-settings:
+    description: "Admin Settings"
+    permission: "realms.commands.setting"
+    aliases: [ as ]

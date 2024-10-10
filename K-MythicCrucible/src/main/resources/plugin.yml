@@ -1,0 +1,4 @@
+name: K-MythicCrucible
+version: '${project.version}'
+main: org.nxdus.mythiccrucible.MainPaper
+api-version: '1.20'

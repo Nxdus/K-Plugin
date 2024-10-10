@@ -1,0 +1,15 @@
+placeholders:
+  'balance_row_1':
+    'original': '%K-Money_balance%'
+    '0': '%oraxen_0_row_1%'
+    '1': '%oraxen_0_row_1%'
+    '2': '%oraxen_0_row_1%'
+    '3': '%oraxen_0_row_1%'
+    '4': '%oraxen_0_row_1%'
+    '5': '%oraxen_0_row_1%'
+    '6': '%oraxen_0_row_1%'
+    '7': '%oraxen_0_row_1%'
+    '8': '%oraxen_0_row_1%'
+    '9': '%oraxen_0_row_1%'
+    'dot': '%oraxen_0_row_1%'
+    ',': '%oraxen_0_row_1%'

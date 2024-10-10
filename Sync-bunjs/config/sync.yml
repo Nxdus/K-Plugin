@@ -1,0 +1,12 @@
+general:
+  base: volumes/{id}/{file}
+  source:
+    - 1
+  target:
+    - 2
+    - 3
+    - 4
+    - 5
+  files:
+    - "ConsoleSpamFix-1.10.0.jar"
+#    - "nice.txt"

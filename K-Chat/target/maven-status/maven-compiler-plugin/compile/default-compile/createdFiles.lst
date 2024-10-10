@@ -1,0 +1,4 @@
+org\nxdus\chat\PlayerChatCommand.class
+org\nxdus\chat\PubSub.class
+org\nxdus\chat\PlayerChatListener.class
+org\nxdus\chat\KChat.class

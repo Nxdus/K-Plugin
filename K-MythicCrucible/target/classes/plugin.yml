@@ -1,0 +1,4 @@
+name: K-MythicCrucible
+version: '1.0'
+main: org.nxdus.mythiccrucible.MainPaper
+api-version: '1.20'

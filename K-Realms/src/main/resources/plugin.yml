@@ -1,0 +1,63 @@
+name: K-Realms
+version: '${project.version}'
+main: org.nxdus.realms.paper.MainPaper
+api-version: '1.20'
+commands:
+  # Realms Commands
+  realms:
+    description: "Realms System"
+    aliases:
+      - realm
+
+  # Realms Generator Command
+  realm-generator:
+    description: "Realm Generator"
+    aliases:
+      - realms-generator
+
+  # Admin Commands
+  custom-enchant:
+    description: "Enchant Command"
+    permission: "realms.commands.customenchant"
+    aliases: [ce]
+
+  # General Commands
+  gm:
+    description: "change player gamemode."
+    permission: "realms.commands.gm"
+  fly:
+    permission: "realms.commands.fly"
+  speed:
+    permission: "realms.commands.speed"
+  kgod:
+    permission: "realms.commands.god"
+  top:
+    permission: "realms.commands.top"
+  item-info:
+    permission: "realms.commands.iteminfo"
+  hat:
+    permission: "realms.commands.hat"
+  spawn:
+    permission: "realms.commands.spawn"
+  setspawn:
+    permission: "realms.commands.setspawn"
+
+  # Toggle Armor Commands
+  toggle-armor:
+    description: "toggle visible armor"
+    permission: "realms.commands.toggle-armor"
+    aliases: [ ta ]
+
+softdepend:
+  - floodgate
+  - FastAsyncWorldEdit
+  - ItemAdders
+  - ProtocolLib
+  - MythicCrucible
+  - PlaceholderAPI
+  - SlimeWorldPlugin
+  - WorldGuard
+  - LuckPerms
+
+depend:
+  - K-Core
